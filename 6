@@ -1,0 +1,19 @@
+Open Tableau and connect to Superstore.csv.
+Create a new worksheet.
+Rename the worksheet Sales vs. Sales Forecast by State.
+Drag Country to Filters.
+Select United States only and click OK.
+Drag Sales to Columns. Ensure it shows SUM(Sales).
+Create a calculated field by clicking Analysis → Create Calculated Field.
+Name the calculated field Avg_sale.
+Enter this formula:
+{ FIXED [State] : SUM([Sales]) }
+Click OK.
+Drag Avg_sale to Rows.
+On the Marks card, select Circle.
+Drag State to Color.
+Drag State to Detail.
+Adjust the view to Entire View if required.
+Set the title to Sales vs. Sales Forecast by State.
+
+
