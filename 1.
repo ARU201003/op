@@ -1,4 +1,8 @@
-drag region and category to columns 
-drag sum (profit) to rows 
-drag category under marks 
-
+3. Drag Region to Columns.
+4. Drag Category to Columns, next to Region.
+5. Drag Profit to Rows. Ensure the pill shows SUM(Profit).
+6. Select Bar chart: On the Marks card, open the dropdown and choose Bar.
+7. Add colours: Drag Category to Color on the Marks card to distinguish the product categories.
+8. Display labels (optional): Drag Profit to Label if you want to display profit values on the bars.
+9. Add the chart title: Double-click the title and enter:
+Regional Profit Breakdown by Product Category
