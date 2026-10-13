@@ -1,0 +1,26 @@
+1. One-dimensional graph — Sales Distribution by Region
+1. Open a new worksheet.
+2. Drag Region to Rows.
+3. Drag Sales to Columns.
+4. Select Bar from the Marks dropdown.
+5. Set the bar color to orange, if desired.
+6. Set the title to Sales Distribution by Region.
+
+2. Two-dimensional graph — Regional Sales Breakdown by Category
+1. Open a new worksheet.
+2. Drag Region to Rows.
+3. Drag Sales to Columns.
+4. Select Bar from the Marks dropdown.
+5. Drag Category to Color.
+6. Go to Analysis → Stack Marks → On.
+7. Set the title to Regional Sales Breakdown by Category.
+
+3. Three-dimensional / multidimensional graph — Sales Analysis by Region and Category with Segment Breakdown
+1. Open a new worksheet.
+2. Drag Region to Columns.
+3. Drag Segment to Columns, after Region.
+4. Drag Sales to Rows.
+5. Select Bar from the Marks dropdown.
+6. Drag Category to Color.
+7. Go to Analysis → Stack Marks → On.
+8. Set the title to Sales Analysis by Region and Category with Segment Breakdown.
