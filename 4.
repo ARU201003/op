@@ -1,0 +1,26 @@
+# Practical 4 — Demonstrate Temporal Component Showing Change Over Time
+
+
+3. Browse to `weatherhistory.csv` and click Open.
+5. From the Data pane, drag Formatted Date to the Columns shelf.
+6. Click the dropdown arrow on the date pill.
+7. Select the second Month option, displaying an example such as `May 2015`.
+8. Ensure the date pill is green (Continuous).
+9. Drag Temperature (C) to the Rows shelf.
+10. Click the Temperature pill dropdown and select Measure → Average.
+11. On the Marks card, select Line.
+12. Click the Analytics tab beside Data.
+13. Drag Trend Line onto the chart and drop it on Linear.
+14. If an unwanted forecast line and shaded forecast band appear, remove the forecast while keeping the linear trendline.
+15. Double-click the worksheet title and change it to Temperature Change Over Time.
+16. Click OK.
+17. Check that the horizontal axis displays the date timeline and the vertical axis displays average temperature in °C.
+18. Save the workbook.
+
+## Expected observation
+
+- Seasonal patterns are visible: summers occur in Q2 and Q3, while winters occur in Q1 and Q4.
+- According to the journal, 2012 has the maximum and minimum average temperatures recorded.
+- The trendline indicates an overall increase in temperature.&#x20;
+
+
